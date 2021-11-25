@@ -1,8 +1,8 @@
 # Critère :
 1. Arborescence
 2. Guidage
-3. [Contrôle explicite](#3-contrôle-explicite)
-	- [Actions explicites & Contrôle utilisateur](#actions-explicites--contrôle-utilisateur)
+3. [Contrôle explicite](#3-contrôle-explicite-)
+	- [Actions explicites & Contrôle utilisateur](#actions-explicites--contrôle-utilisateur-)
 		- [Définition](#définition)
 		- [Lien de retour](#lien-de-retour)
 		- [Breadcrump](#breadcrump)
